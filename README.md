@@ -22,4 +22,4 @@ Each issue in this repository is structured to provide maximum value:
 Want to stay ahead of the curve? Get these insights delivered directly to your inbox every day!
 
 **How to Subscribe?**
-If you would like to join our daily mailing list, please provide your Email ID by opening an issue / or contacting us directly (Mail: tutulsen42@gmail.com). Never miss a critical job update or market insight again!
+If you would like to join our daily mailing list, please provide your Email ID by opening an issue / or contacting us directly (Mail: tsen.tutul@gmail.com). Never miss a critical job update or market insight again!
