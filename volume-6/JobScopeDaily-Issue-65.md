@@ -71,7 +71,7 @@ Today’s Job Update:
 | Educational Qualification | Honours, and Masters                                      |
 | Experience Requirements   | No                                                        |
 | Application Start Date    | 30 Mar 2026                                               |
-| Application Deadline      | 127 Apr 2026                                              |
+| Application Deadline      | 27 Apr 2026                                               |
 | Application Link          | [Go](https://erecruitment.bb.org.bd/)                     |
 | Circular Link             | [Go](https://bdgovtjob.net/bangladesh-bank-job-circular/) |
 | Archive Link              | [Go](https://ghostarchive.org/archive/m793P)              |
@@ -81,5 +81,3 @@ About the Institution: বাংলাদেশ ব্যাংক (বিবি
 #### Private Job Sector: No New Update
 
 #### IT and Specialized Job Sector: No New Update
-
----
