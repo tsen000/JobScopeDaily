@@ -25,14 +25,14 @@ created: 2026-04-09
     - Mid-Senior Level: মাসিক BDT ১,০০,০০০ থেকে ২,৫০,০০০+
     - Benefits: হেলথ ইনস্যুরেন্স, যাতায়াত ভাতা, লাঞ্চ সুবিধা এবং গ্লোবাল স্ট্যান্ডার্ডের ট্রেনিং প্রোগ্রাম।
 
-2. Employee Feedback: Moderate (3.8 rating out of 5) [glassdoor]()
+2. Employee Feedback: Moderate (3.8 rating out of 5) [glassdoor](https://www.glassdoor.com/Reviews/Uber-Reviews-E575263.htm)
    Ratings by category:
     - Career opportunities: 3.1
     - Compensation and benefits: 3.4
     - Culture & values: 3.3
     - Senior management: 3.0
     - Diversity & inclusion: 3.8
-    - Work/Life balancee balance: 3.4
+    - Work/Life balance: 3.4
 
 3. Market Position: উবারের সবচেয়ে বড় শক্তি হলো তাদের উন্নত অ্যাপ ইন্টারফেস এবং সিকিউরিটি ফিচার (যেমন- পিন ভেরিফিকেশন ও ট্রিপ ট্র্যাকিং)। ইন্টারসিটি বা দূরপাল্লার যাতায়াতে উবার বর্তমানে বাংলাদেশে অপ্রতিদ্বন্দ্বী। এছাড়া তাদের স্বচ্ছ পেমেন্ট সিস্টেম গ্রাহকদের কাছে আস্থাশীল। ২০২৪-২৬ সালের প্রেক্ষাপটে উবার এখন ইনড্রাইভের (InDrive) মতো কোম্পানির সাথে 'নেগোশিয়েবল ফেয়ার' বা ভাড়া দরদাম করার ফিচারের কারণে তীব্র প্রতিযোগিতার মুখে রয়েছে। তবে উবার তাদের সেবার মান এবং কর্পোরেট ক্লায়েন্টদের ওপর বেশি গুরুত্ব দিচ্ছে। বর্তমানে তারা ঢাকা শহরে ইভি (ইলেকট্রিক ভেহিকল) রাইড চালুর পরিকল্পনা করছে যাতে কার্বন নিঃসরণ কমানো যায়।
 
