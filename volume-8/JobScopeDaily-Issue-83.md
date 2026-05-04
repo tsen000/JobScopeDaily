@@ -1,0 +1,91 @@
+---
+Issuse No.: "83"
+created: 2026-05-04
+---
+
+---
+#### Overview of Eskayef Pharmaceuticals Limited
+##### Basic Information:
+1. Company Overview: এসকেএফ ফার্মাসিউটিক্যালস লিমিটেড বাংলাদেশের অন্যতম বৃহৎ এবং দ্রুত বর্ধনশীল ওষুধ উৎপাদনকারী প্রতিষ্ঠান। এটি দেশের অন্যতম শীর্ষস্থানীয় শিল্পগোষ্ঠী ট্রান্সকম গ্রুপ (Transcom Group) এর একটি অঙ্গপ্রতিষ্ঠান। Excellence through Quality স্লোগান নিয়ে তারা কেবল দেশেই নয়, বরং বিশ্ববাজারেও মানসম্মত ওষুধ সরবরাহে খ্যাতি অর্জন করেছে। [skfbd](https://skfbd.com/aboutus)
+
+2. History: ১৯৯০ সালে ট্রান্সকম গ্রুপ যখন বহুজাতিক কোম্পানি 'স্মিথক্লাইন অ্যান্ড ফ্রেঞ্চ' (SmithKline & French)-এর বাংলাদেশ কার্যক্রম অধিগ্রহণ করে, তখন এসকেএফ-এর যাত্রা শুরু হয়। গত তিন দশকে তারা নিজেদের একটি গ্লোবাল স্ট্যান্ডার্ড কোম্পানি হিসেবে প্রতিষ্ঠিত করেছে।
+
+3. Industry: Pharmaceuticals & Healthcare.
+4. Global Approvals: এসকেএফ বাংলাদেশের অন্যতম কোম্পানি যাদের উৎপাদন কেন্দ্রগুলো বিশ্ববিখ্যাত নিয়ন্ত্রক সংস্থা যেমন - US FDA (ইউএস ফুড অ্যান্ড ড্রাগ অ্যাডমিনিস্ট্রেশন), UK MHRA, European Union GMP, এবং Australia TGA থেকে স্বীকৃতিপ্রাপ্ত।
+5. Main Products/Services: তারা প্রায় সব ধরনের থেরাপিউটিক ক্যাটাগরিতে ওষুধ উৎপাদন করে (যেমন- অ্যান্টিবায়োটিক, কার্ডিওভাসকুলার, ডায়াবেটিক এবং গ্যাস্ট্রোএন্টারোলজি)। তাদের কিছু উল্লেখযোগ্য ব্র্যান্ড হলো: Fexo, Losectil, Neoflam, এবং Monas। এছাড়া তারা পশুস্বাস্থ্য (Animal Health) এবং কনজিউমার হেলথ পণ্যেও শক্তিশালী।
+6. Approx Employee Size: বর্তমানে এই প্রতিষ্ঠানে সরাসরি প্রায় ৫,০০০–৭,০০০ জন কর্মী নিয়োজিত আছেন।
+7. Competitors: স্কয়ার ফার্মাসিউটিক্যালস, ইনসেপ্টা, বেক্সিমকো ফার্মা এবং রেনাটা লিমিটেড।
+8. Company Website: https://www.skfbd.com/
+
+##### Job Seeker Insight:
+1. Salary Structure: এসকেএফ তাদের কর্মীদের জন্য অত্যন্ত আকর্ষণীয় এবং প্রতিযোগিতামূলক বেতন কাঠামো বজায় রাখে।
+    - Entry-level (Medical Services Executive - Sales): মাসিক BDT ৩০,০০০ – ৩৮,০০০ (সাথে টিএ/ডিএ এবং সেলস ইনসেন্টিভ)
+    - Management Trainee (MTO) / Executive (Production/QA): মাসিক BDT ৪০,০০০ – ৫৫,০০০
+    - Mid-Senior Level (Manager): মাসিক BDT ৮০,০০০ থেকে ২,০০,০০০+।
+    - Benefits: তিনটি উৎসব বোনাস (দুটি ঈদ ও একটি পারফরম্যান্স বোনাস), প্রফিট শেয়ারিং (WPPF), প্রভিডেন্ট ফান্ড, গ্র্যাচুইটি, এবং গ্রুপ ইনস্যুরেন্স।
+
+2. Employee Feedback: High (4.1 rating out of 5) [glassdoor](https://www.glassdoor.com/Reviews/Eskayef-Bangladesh-Limited-Reviews-E434553.htm)
+   Ratings by category:
+    - Career opportunities: 4.1
+    - Compensation and benefits: 3.5
+    - Culture & values: 4.0
+    - Senior management: 3..9
+    - Diversity & inclusion: 3.7
+    - Work/Life balance: 3.4
+
+3. Market Position: এসকেএফ-এর সবচেয়ে বড় শক্তি হলো তাদের হাই-টেক ম্যানুফ্যাকচারিং এবং গ্লোবাল এক্সপোর্ট সক্ষমতা। তারা বিশ্বের ৬৭টিরও বেশি দেশে ওষুধ রপ্তানি করে। করোনা মহামারীর সময় বিশ্বখ্যাত ওষুধ 'রেমডেসিভির' এবং 'মলনুপিরাভির' দ্রুততম সময়ে বাজারে এনে তারা তাদের সক্ষমতার প্রমাণ দিয়েছে। এছাড়া তাদের ইনজেকশন এবং অফথালমিক (চোখের ওষুধ) ইউনিটগুলো দক্ষিণ এশিয়ার অন্যতম আধুনিক। ২০২৬ সালের লক্ষ্যমাত্রায় এসকেএফ এখন বায়োসিমিলার এবং অঙ্কোলজি (ক্যান্সারের ওষুধ) এর ওপর সবচেয়ে বেশি জোর দিচ্ছে। সম্প্রতি তারা তাদের নতুন 'আইভি' (Intravenous) প্ল্যান্টের সক্ষমতা বাড়িয়েছে। এছাড়া তারা ডিজিটাল মার্কেটিং এবং কৃত্রিম বুদ্ধিমত্তা (AI) ব্যবহার করে ডাক্তারদের সাথে যোগাযোগ এবং সাপ্লাই চেইন ম্যানেজমেন্টকে আরও আধুনিক করার কাজ করছে।
+
+---
+
+Today’s Job Update:
+#### Gov Job Sector: No New Update
+
+#### Private Job Sector: No New Update
+
+#### IT and Specialized Job Sector: 1 New Update
+
+| Header                        | Content                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Organization Name             | Astha Life Insurance Company Limited                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Position                      | Manager - Senior Manager- IT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Location                      | Dhaka                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Total Vacancies               | Not Specified                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Salary                        | Negotiable                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Compensation & Other Benefits | - Attractive Salary Package (Negotiable).<br>- Two Festival Bonus and One Noboborsho Bonus.<br>- Provident Fund.<br>- Group Insurance Coverage.<br>- Subsidized Lunch Facilities.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Educational Qualification     | - Bachelor of Science (BSc) in Information Technology<br>- Master of Science (MSc) in Information Technology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Experience Requirements       | - Age At least 32 years<br>- At least 6 years’ experience.<br>- Work experience in the insurance sector is desirable.<br>- Should have an experience on ASP.NET, C#, Web From, Flutter, Web Services, RDBMS, MVC, front-end technology in HTML5, JavaScript, J Query, Web APIs.<br>- Good understanding of relational databases (like MSSQL). Familiarity with writing SQL queries.<br>- Server administration (Windows/Linux) and cybersecurity.<br>- Understanding of software development life cycle, debugging processes, and code optimization techniques.<br>- Clear understanding of OOP & design patterns.<br>- Clear understanding of networking (Cisco/ Mikro Tik), firewall, VPN, cloud infrastructure.<br>- Ability to perform under pressure. |
+| Application Start Date        | 04 May 2026                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Application Deadline          | 03 Jun 2026                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Application Link              | [Go](https://bdjobs.com/h/details/1484679?ln=1)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Circular Link                 | [Go](https://bdjobs.com/h/details/1484679?ln=1)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Archive Link                  | [Go](https://drive.google.com/file/d/1VT-mN25bVVOYt5t01rat_fgvi613lQlw/view?usp=drive_link)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+
+#### Overview of Astha Life Insurance Company Limited
+##### Basic Information:
+1. Company Overview: আস্থা লাইফ ইন্স্যুরেন্স কোম্পানি লিমিটেড বাংলাদেশের জীবন বীমা খাতের একটি নবীন কিন্তু অত্যন্ত শক্তিশালী প্রতিষ্ঠান। এটি মূলত বাংলাদেশ সেনাবাহিনীর কল্যাণ ট্রাস্ট (Army Welfare Trust - AWT) দ্বারা পরিচালিত। প্রচলিত বীমা ব্যবস্থার সীমাবদ্ধতা কাটিয়ে সশস্ত্র বাহিনী, আধাসামরিক বাহিনী এবং সাধারণ জনগণের আর্থিক নিরাপত্তা নিশ্চিত করাই এই কোম্পানির মূল লক্ষ্য। [asthalife](https://asthalife.com.bd/)
+
+2. History: মাননীয় প্রধানমন্ত্রীর দিকনির্দেশনায় এবং বাংলাদেশ সেনাবাহিনীর প্রত্যক্ষ তত্ত্বাবধানে ২০২০ সালের ২৩ জুন প্রতিষ্ঠানটি আনুষ্ঠানিকভাবে তার ব্যবসায়িক যাত্রা শুরু করে। এর আগে ২০১৯ সালের ৩০ সেপ্টেম্বর এটি আইডিআরএ (IDRA) থেকে নিবন্ধন লাভ করে।
+
+3. Industry: Life Insurance.
+4. Ownership / Parent Organization: এটি সম্পূর্ণভাবে সেনাবাহিনী কল্যাণ ট্রাস্ট (Army Welfare Trust)-এর মালিকানাধীন একটি প্রতিষ্ঠান। ফলে এর ব্যবস্থাপনা এবং সেবার মান অত্যন্ত স্বচ্ছ ও নির্ভরযোগ্য।
+5. Main Products/Services: প্রতিরক্ষা ও আধাসামরিক বাহিনীর জন্য: দেশের ইতিহাসে প্রথমবারের মতো সশস্ত্র বাহিনী ও আধাসামরিক বাহিনীর সদস্যদের (BGB, Coast Guard, Police, RAB, Ansar, Fire Service) জন্য বিশেষায়িত ঝুঁকি কভারসহ বীমা পরিকল্পনা। সাধারণ নাগরিকদের জন্য: আস্থা সুরক্ষা (Term Life), আস্থা চাইল্ড কেয়ার, আস্থা পেনশন প্ল্যান, আস্থা মানি ব্যাক এবং ডিপিএস সুরক্ষা। ইসলামিক উইন্ডো: শরীয়াহ ভিত্তিক 'আস্থা তাকাফুল' (Astha Takaful) সেবা। গ্রুপ বীমা: সরকারি ও বেসরকারি প্রতিষ্ঠানের কর্মীদের জন্য গ্রুপ টার্ম ইন্স্যুরেন্স।
+6. Approx Employee Size: বর্তমানে করপোরেট অফিস এবং বিভিন্ন শাখা মিলিয়ে প্রায় ৫০০-এর বেশি স্থায়ী কর্মী এবং কয়েক হাজার ফিল্ড অফিসার/এজেন্ট কাজ করছেন।
+7. Competitors: মেটলাইফ (MetLife), ডেল্টা লাইফ, ন্যাশনাল লাইফ এবং মেঘনা লাইফ ইন্স্যুরেন্স।
+8. Company Website: https://asthalife.com.bd/
+
+##### Job Seeker Insight:
+1. Salary Structure: আস্থা লাইফ তাদের কর্মীদের জন্য একটি সুশৃঙ্খল এবং ইন্ডাস্ট্রি স্ট্যান্ডার্ড বেতন কাঠামো বজায় রাখে।
+    - Entry-level (Officer/Executive): মাসিক BDT ২৫,০০০ – ৩৫,০০০ (বিভাগ ও পদের ভিত্তিতে)।
+    - Sales/Development Officers: এখানে ফিক্সড স্যালারির পাশাপাশি আকর্ষণীয় কমিশন ও ইনসেন্টিভ সুবিধা থাকে।
+    - Benefits: দুটি উৎসব বোনাস, প্রভিডেন্ট ফান্ড, গ্র্যাচুইটি এবং কর্মীদের জন্য বিশেষ গ্রুপ বীমা সুবিধা।
+
+2. Employee Feedback: High (4.1 rating out of 5) [ambitionbox](https://www.ambitionbox.com/reviews/astha-insurance-services-reviews)
+   Ratings by category:
+    - Skill Development: 4.1
+    - Work Satisfaction: 4.0
+    - Culture & values: 4.0
+    - Salary: 2.9
+    - Job Security: 4.0
+    - Work/Life balance: 4.0
+
+3. Market Position: আস্থা লাইফের সবচেয়ে বড় শক্তি হলো তাদের বিশ্বস্ততা। যেহেতু এটি সেনাবাহিনীর একটি প্রতিষ্ঠান, তাই গ্রাহকদের মধ্যে বীমা দাবি (Claim) পরিশোধ নিয়ে কোনো সংশয় থাকে না। এছাড়া তাদের পুরো প্রক্রিয়াটি সম্পূর্ণ ডিজিটাল এবং আধুনিক প্রযুক্তিনির্ভর। ২০২৬ সালের লক্ষ্যমাত্রায় আস্থা লাইফ এখন ব্যানক্যাসুরেন্স (Bancassurance) এবং ডিজিটাল ইনক্লুশন এর ওপর সবচেয়ে বেশি জোর দিচ্ছে। তারা বিভিন্ন বাণিজ্যিক ব্যাংকের সাথে চুক্তিবদ্ধ হয়ে সাধারণ মানুষের দোরগোড়ায় বীমা সেবা পৌঁছে দিচ্ছে। বর্তমানে তারা প্রান্তিক ও নিম্নবিত্ত মানুষের জন্য 'মাইক্রো-ইন্স্যুরেন্স' প্রবর্তন করেছে যা দেশের আর্থিক অন্তর্ভুক্তিতে বড় ভূমিকা রাখছে।
