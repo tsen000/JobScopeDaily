@@ -37,7 +37,7 @@ created: 2026-07-02
 ---
 
 Today’s Job Update:
-#### Gov Job Sector: No New Update
+#### Gov Job Sector: 2 New Update
 
 1. National Pension Authority(NPA)
 
