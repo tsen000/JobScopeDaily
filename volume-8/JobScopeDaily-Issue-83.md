@@ -18,11 +18,11 @@ created: 2026-05-04
 8. Company Website: https://www.skfbd.com/
 
 ##### Job Seeker Insight:
-1. Salary Structure: এসকেএফ তাদের কর্মীদের জন্য অত্যন্ত আকর্ষণীয় এবং প্রতিযোগিতামূলক বেতন কাঠামো বজায় রাখে।
-    - Entry-level (Medical Services Executive - Sales): মাসিক BDT ৩০,০০০ – ৩৮,০০০ (সাথে টিএ/ডিএ এবং সেলস ইনসেন্টিভ)
-    - Management Trainee (MTO) / Executive (Production/QA): মাসিক BDT ৪০,০০০ – ৫৫,০০০
-    - Mid-Senior Level (Manager): মাসিক BDT ৮০,০০০ থেকে ২,০০,০০০+।
-    - Benefits: তিনটি উৎসব বোনাস (দুটি ঈদ ও একটি পারফরম্যান্স বোনাস), প্রফিট শেয়ারিং (WPPF), প্রভিডেন্ট ফান্ড, গ্র্যাচুইটি, এবং গ্রুপ ইনস্যুরেন্স।
+1. Salary Structure: এসকেএফ তাদের কর্মীদের জন্য অত্যন্ত আকর্ষণীয় এবং প্রতিযোগিতামূলক বেতন কাঠামো বজায় রাখে। [Glassdoor](https://www.glassdoor.com/Salary/Eskayef-Bangladesh-Limited-Dhaka-Salaries-EI_IE434553.0,26_IL.27,32_IM1237.htm)
+    - Executive / Junior Professionals: BDT 35,000 – BDT 40,000 / month
+    - Medical Services Officer (MSO) / PMD: BDT 35,000 – BDT 44,000 / month
+    - Engineering Executive: BDT 37,000 – BDT 38,000 / month
+    - Mid-Level Management (ex: Assistant Manager): BDT 60,000 – BDT 66,667 / month
 
 2. Employee Feedback: High (4.1 rating out of 5) [glassdoor](https://www.glassdoor.com/Reviews/Eskayef-Bangladesh-Limited-Reviews-E434553.htm)
    Ratings by category:
