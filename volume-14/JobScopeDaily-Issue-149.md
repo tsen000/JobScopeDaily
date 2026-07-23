@@ -18,7 +18,7 @@ created: 2026-07-22
 8. Company Website: https://crowncement.com/
 
 ##### Job Seeker Insight:
-1. Salary Structure: ক্রাউন সিমেন্ট পিএলসি (Crown Cement PLC)-এর মাসিক বেতন কাঠামো পদের দায়িত্ব ও অভিজ্ঞতা অনুযায়ী নির্ধারিত হয়। [Glassdoor](https://www.glassdoor.co.uk/Salary/Crown-Cement-Group-Dhaka-Bangladesh-Salaries-EI_IE2941541.0,18_IL.19,35_IM1237.htm)
+1. Salary Structure: ক্রাউন সিমেন্ট পিএলসি (Crown Cement PLC) এর মাসিক বেতন কাঠামো পদের দায়িত্ব ও অভিজ্ঞতা অনুযায়ী নির্ধারিত হয়। [Glassdoor](https://www.glassdoor.co.uk/Salary/Crown-Cement-Group-Dhaka-Bangladesh-Salaries-EI_IE2941541.0,18_IL.19,35_IM1237.htm)
     - Internships: BDT 5,000 to BDT 8,000 per month.
     - Entry-Level / Junior Officers: BDT 15,000 to BDT 25,000 per month.
     - Mid-Level Executives: BDT 25,000 to BDT 37,000 per month
