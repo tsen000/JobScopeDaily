@@ -31,7 +31,7 @@ Government Job Interview Tips
 -Eye contact বজায় রাখুন, Board member এর কথা মনোযোগ দিয়ে শোনা, Calm এবং polite থাকা,
 
 9. Ethics & Responsibility Mindset
--Government job মানে public service—এই mindset প্রকাশ পেলে interview board ইতিবাচকভাবে নেয়।
+-Government job মানে public service; এই mindset প্রকাশ পেলে interview board ইতিবাচকভাবে নেয়।
 
 10. Ending Impression
 -Interview শেষে Thank you, Sir/Madam বলা professionalism প্রকাশ করে।

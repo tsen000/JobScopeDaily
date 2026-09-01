@@ -19,18 +19,21 @@ aliases:
 8. Company Website: https://www.dblpharmaceuticals.com/
 
 ##### Job Seeker Insight:
-1. Salary Structure: ফার্মাসিউটিক্যালস ইন্ডাস্ট্রির বর্তমান মানদণ্ড অনুযায়ী ডিবিএল বেশ ভালো বেতন প্রদান করে।
-    - Entry-level (MPO/Executive/Officer): মাসিক BDT ৩০,০০০ – ৪২,০০০ (বিভাগ ও পদের ভিত্তিতে)।
-    - Mid-Senior Level: মাসিক BDT ৭০,০০০ থেকে ১,৬০,০০০+
-    - Benefits: প্রফিট শেয়ারিং, উৎসব বোনাস, প্রভিডেন্ট ফান্ড, গ্র্যাচুইটি এবং ফিল্ড কর্মীদের জন্য আকর্ষণীয় টিএ/ডিএ ও সেলস ইনসেনটিভ।
+1. Salary Structure: ফার্মাসিউটিক্যালস ইন্ডাস্ট্রির বর্তমান মানদণ্ড অনুযায়ী ডিবিএল বেশ ভালো বেতন প্রদান করে। [Glassdoor](https://www.glassdoor.com/Salary/DBL-Group-Dhaka-Salaries-EI_IE877135.0,9_IL.10,15_IM1237.htm)
+    - Assistant Officer / Production: BDT 15,000 – BDT 25,000 per month
+    - Junior Executive (HR / General): BDT 17,500 – BDT 30,000 per month
+    - Management Trainee / MTO: BDT 23,500 – BDT 36,000 per month
+    - Executive / Merchandiser: BDT 31,500 – BDT 49,000 per month
+    - Senior Executive / Senior Merchandiser: BDT 50,000 – BDT 95,000 per month
+    - Assistant Manager / Manager: BDT 54,000 – BDT 120,000+ per month
 
-2. Employee Feedback: Moderate (3.7 rating out of 5) [glassdoor]()
+2. Employee Feedback: Moderate (3.7 rating out of 5) [Glassdoor](https://www.glassdoor.com/Reviews/DBL-Group-Reviews-E877135.htm)
    Ratings by category:
     - Career opportunities: 3.8
     - Compensation and benefits: 3.4
     - Culture & values: 3.6
     - Senior management: 3.5
-    - Diversity & inclusion: 3.4
+    - Diversity & inclusion: 3.5
     - Work/Life balance: 3.3
 
 3. Market Position: ডিবিএল ফার্মাসিউটিক্যালসের মূল শক্তি হলো তাদের মাদার কোম্পানি 'ডিবিএল গ্রুপ'-এর বিশাল সুনাম এবং শক্তিশালী আর্থিক ভিত্তি। তাদের ফ্যাক্টরিটি সম্পূর্ণ ডিজিটাল অটোমেশন এবং বিশ্বমানের মেশিনারিজ দ্বারা নিয়ন্ত্রিত, যা তাদের পণ্যের নির্ভুল মান নিশ্চিত করে। ২০২৪-২৬ সালের মধ্যে তারা নিজেদের একটি গ্লোবাল ব্র্যান্ড হিসেবে প্রতিষ্ঠিত করার লক্ষ্যে কাজ করছে। তারা কেবল দেশীয় বাজারে নয়, বরং উন্নত দেশগুলোতে (যেমন- ইউরোপ, আমেরিকা) ঔষধ রপ্তানির জন্য প্রয়োজনীয় আন্তর্জাতিক সনদগুলো অর্জনের শেষ পর্যায়ে রয়েছে। বর্তমানে তারা ডার্মাটোলজি (চর্মরোগ) এবং অপথালমোলজি (চোখ) বিভাগের জন্য নতুন নতুন পণ্য বাজারে আনছে।

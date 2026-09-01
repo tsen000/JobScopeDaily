@@ -56,7 +56,7 @@ Application Start Date: 19 Feb 2026
 Application Deadline: 21 Mar 2026
 Application Link: [Go](https://bdjobs.com/h/details/1461122?ln=1)
 Circular Link: [Go](https://bdjobs.com/h/details/1461122?ln=1)
-About the Company: TEAM Group বাংলাদেশের একটি বহুমুখী শিল্পগোষ্ঠী, যার অধীনে একাধিক RMG কারখানা (যেমন 4A Yarn Dyeing Ltd. : LEED Platinum, Brothers Fashion Ltd. : LEED Gold) এবং বৃহৎ সোর্সিং ইউনিট Team Sourcing বিশ্বব্যাপী পরিচালিত হচ্ছে। এছাড়া Team Pharmaceuticals Ltd. ৮৯+ পণ্য উৎপাদন ও বিপণন করে স্বাস্থ্যসেবা সহজলভ্য করছে। ফ্যাশন ব্র্যান্ড Twelve Clothing Ltd., প্রযুক্তি সেবা প্রতিষ্ঠান Intellier এবং পরিবেশবান্ধব নির্মাণে কাজ করা Team Developers Ltd.—সব মিলিয়ে গ্রুপটি পোশাক, স্বাস্থ্য, প্রযুক্তি ও নির্মাণ খাতে সক্রিয়।
+About the Company: TEAM Group বাংলাদেশের একটি বহুমুখী শিল্পগোষ্ঠী, যার অধীনে একাধিক RMG কারখানা (যেমন 4A Yarn Dyeing Ltd. : LEED Platinum, Brothers Fashion Ltd. : LEED Gold) এবং বৃহৎ সোর্সিং ইউনিট Team Sourcing বিশ্বব্যাপী পরিচালিত হচ্ছে। এছাড়া Team Pharmaceuticals Ltd. ৮৯+ পণ্য উৎপাদন ও বিপণন করে স্বাস্থ্যসেবা সহজলভ্য করছে। ফ্যাশন ব্র্যান্ড Twelve Clothing Ltd., প্রযুক্তি সেবা প্রতিষ্ঠান Intellier এবং পরিবেশবান্ধব নির্মাণে কাজ করা Team Developers Ltd. সব মিলিয়ে গ্রুপটি পোশাক, স্বাস্থ্য, প্রযুক্তি ও নির্মাণ খাতে সক্রিয়।
 
 ---
 #### Others News:
